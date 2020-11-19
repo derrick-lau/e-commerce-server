@@ -12,5 +12,5 @@
  - run python3 app.py on localhost:8080
  
 # Roadmap 
-	
- - Dockerization
+- Refactor all with DDD
+- Dockerization
